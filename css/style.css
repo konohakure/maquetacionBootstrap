@@ -1,0 +1,32 @@
+*{
+
+    box-sizing: border-box;
+}
+
+body{
+    margin: auto;
+    padding: 2em;
+    background-image: url("https://i.pinimg.com/originals/bc/a1/90/bca19096a0def30ba652264dbce98d88.jpg");
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.row{
+    padding: 1rem;
+}
+
+.barra{
+    background-color: #FF266E;
+}
+
+.cajaBorde{
+    border-style: solid;
+    border-color: #FF266E;
+    height: 30vh;
+}
+
+
